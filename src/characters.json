@@ -1472,6 +1472,29 @@
     }
   },
   {
+    "title": "~\t tilde\n ",
+    "subtitle": "U+223C",
+    "icon": {
+      "path": "empty.png"
+    },
+    "arg": "~",
+    "text": {
+      "copy": "~"
+    },
+    "mods": {
+        "alt": {
+            "valid": true,
+            "arg": "\\u223c",
+            "subtitle": "\\u223c → Copy Hex Unicode"
+        },
+        "cmd": {
+            "valid": true,
+            "arg": "&#x223c;",
+            "subtitle": "&#x223c; → Copy HTML Entity"
+        }
+    }
+  },
+  {
     "title": "₺\t turkish lira sign\n turkish lira sign currency ₺",
     "subtitle": "U+20BA",
     "icon": {
